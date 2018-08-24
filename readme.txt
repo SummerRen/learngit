@@ -3,3 +3,4 @@ Git is free software.
 Hello github
 Creating a new branch is quick.
 Master update
+Creating a new branch is quick & simple.
